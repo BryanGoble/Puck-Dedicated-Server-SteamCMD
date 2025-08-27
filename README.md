@@ -46,6 +46,7 @@ If you'd like to add color, bold, or italic formats to the name of your server (
 `<b><color=white>Example</color> <color=#008000ff>Server</color></b>`
 
 This is the result:
+
 ![Example Server properly formatted](image.png)
 
 **Note:** Refer to reference 4 below for more details on what colors and styles are supported.
